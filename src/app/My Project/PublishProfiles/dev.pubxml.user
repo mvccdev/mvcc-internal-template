@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>Z:\InetPub\Apps\sandbox1</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/app.dll">
+      <publishTime>03/02/2022 16:06:51</publishTime>
+    </File>
+    <File Include="bin/app.xml">
+      <publishTime>03/02/2022 16:06:51</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/02/2022 14:54:16</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>03/02/2022 14:54:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>03/02/2022 14:54:17</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>03/02/2022 14:54:17</publishTime>
+    </File>
+    <File Include="default.html">
+      <publishTime>03/02/2022 16:45:44</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/02/2022 14:54:16</publishTime>
+    </File>
+    <File Include="Includes/footer.html">
+      <publishTime>03/02/2022 15:08:38</publishTime>
+    </File>
+    <File Include="Includes/header.html">
+      <publishTime>03/04/2022 10:41:10</publishTime>
+    </File>
+    <File Include="Includes/template.html">
+      <publishTime>03/02/2022 15:34:22</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/02/2022 14:54:17</publishTime>
+    </File>
+    <File Include="Scripts/home.js">
+      <publishTime>03/02/2022 16:16:28</publishTime>
+    </File>
+    <File Include="Styles/custom.css">
+      <publishTime>03/04/2022 10:39:57</publishTime>
+    </File>
+    <File Include="Styles/mvcc.css">
+      <publishTime>03/02/2022 16:50:41</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/04/2022 11:15:45</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
