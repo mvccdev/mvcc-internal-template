@@ -100,7 +100,6 @@
     <Content Include="Global.asax" />
     <Content Include="Includes\footer.html" />
     <Content Include="Includes\header.html" />
-    <Content Include="Includes\template.html" />
     <Content Include="Scripts\home.js" />
     <Content Include="Styles\custom.css" />
     <Content Include="Styles\mvcc.css" />
