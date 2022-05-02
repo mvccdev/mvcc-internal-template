@@ -15,5 +15,9 @@ Public Module WebApiConfig
             routeTemplate:="api/{controller}/{id}",
             defaults:=New With {.id = RouteParameter.Optional}
         )
+        '
+        ' Custom: Remove the XmlFormatter so JSON is used by default.
+        '
+        config.Formatters.Remove(config.Formatters.XmlFormatter)
     End Sub
 End Module
