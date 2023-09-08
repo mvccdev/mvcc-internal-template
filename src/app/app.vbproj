@@ -102,7 +102,6 @@
     <Content Include="Includes\footer.html" />
     <Content Include="Includes\header.html" />
     <Content Include="Scripts\default.js" />
-    <Content Include="Scripts\mvcc.js" />
     <Content Include="Styles\custom.css" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
